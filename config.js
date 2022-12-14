@@ -27,36 +27,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/62'
+global.sig = 'https://instagram.com/q.c.ditya'
+global.syt = '-'
+global.sgh = 'https://github.com/Dityarunz'
+global.sgc = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
+global.swa = 'wa.me/6285237596750'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085755827288'
-global.povo = '-'
-global.pgopay = '088279268363'
-global.ppulsa = '085755827288'
-global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.pdana = '085792429140'
+global.povo = '085738153140'
+global.pgopay = '085792429140'
+global.ppulsa = '085792429140'
+global.ppulsa2 = '085792429140'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
-global.nomorown = '6285755827288'
-global.namebot = 'Miko botz✓'
-global.nameown = 'ᴹᴿ᭄ Miko©'
+global.nomorbot = '6285792429140'
+global.nomorown = '6285237596750'
+global.namebot = 'Ditya botz✓'
+global.nameown = 'ᴹᴿ᭄ Ditya©'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285755827288', 'miko kun', 'true']
+  ['6285237596750', 'ditya kun', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [6285755827288] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = [6285237596750] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Miko botz✓ | By ᴹᴿ᭄ miko' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ miko'
-global.wm3 = 'Miko botz | By ᴹᴿ᭄ Miko'
+global.wm = 'Ditya botz✓ | By ᴹᴿ᭄ ditya' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄ ditya'
+global.wm3 = 'Ditya botz | By ᴹᴿ᭄ Ditya'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ Miko' 
-global.packname = 'ᴹᴿ᭄ Miko'
+global.author = 'ᴹᴿ᭄ Ditya' 
+global.packname = 'ᴹᴿ᭄ Ditya'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
@@ -119,10 +119,10 @@ global.thumbWarn = 'https://telegra.ph/file/3dc0fb3c7ccc64efcbfce.jpg'
 global.botintro = 'Hallo, Kenalin saya miko BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/3dc0fb3c7ccc64efcbfce.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ miko ×፝֟͜×'
-global.umurowner = '22'
-global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285755827288'
+global.nameowner = 'ᴹᴿ᭄ Ditya ×፝֟͜×'
+global.umurowner = '16'
+global.asalowner = 'Indonesia, Bali'
+global.nomorowner = 'wa.me/6285237596750'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
